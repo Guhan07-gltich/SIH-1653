@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:13/03/2025
+## Register Number:21222040092
+## Name:Guhan B
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
@@ -11,16 +11,44 @@ Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defe
 Ministry of Defence
 
 ## Idea
+AI-Powered Interview Panel:
 
+Simulates a real-life boardroom interview experience.
+Begins with ice-breaking questions before moving to in-depth technical and managerial assessments based on candidate level.
+Expert & Candidate Relevancy Score:
+
+AI ensures that interviewers ask relevant questions based on the applicant’s area of expertise.
+Candidate responses are evaluated for relevance against the posed questions.
+Automated Scoring & Grading System:
+
+Provides a quantifiable score for both interviewers (for relevancy of questions) and candidates (for quality of responses).
+Assists in determining the candidate’s subject knowledge and suitability for the position.
+Techno-Managerial Question Generation:
+
+AI dynamically generates technical and managerial questions based on the job role.
+Ensures a structured and unbiased evaluation process.
+Real-Time Feedback & Insights:
+
+Generates real-time analytics and reports on interview performance.
+Helps experts make data-driven hiring decisions.
 
 ## Proposed Solution / Architecture Diagram
 
+![IMG_20250313_192328_127](https://github.com/user-attachments/assets/51c61fd5-3d20-4105-96b8-6a3c014ef379)
 
 ## Use Cases
 
 
 ## Technology Stack
-
+Frontend: React.js
+Backend: Node.js
+Database: PostgreSQL
+AI & NLP: OpenAI GPT / Google BERT
+Speech Processing: Google Speech-to-Text API
+Authentication: Firebase Authenticator
+Tools: Git, Postman, or Insomnia
 
 ## Dependencies
-
+AI Model Training – 20 days
+Data Collection & Testing – 15 days
+Budget – ₹75,000
